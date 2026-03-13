@@ -2,6 +2,16 @@
 
 This repository is the **public distribution channel** for UML AASX Creator.
 
+## Application Screenshot
+
+UML diagram edited in the desktop app:
+
+![UML AASX Creator UI](docs/images/uml-aasx-creator.png)
+
+AASX package opened after export from the same diagram:
+
+![UML AASX Creator Exported AASX](docs/images/uml-aasx-creator-exportaasx.png)
+
 ## What is included
 
 - Windows installer releases (`.exe`) in **GitHub Releases**.
